@@ -45,7 +45,7 @@ I share my journey in **analytics, business intelligence, and real estate tech**
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bida21-125&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MOss76&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" height="165"/>
 </p>  
 
