@@ -1,30 +1,45 @@
-# Hi there, I'm Mofokeng 👋  
+# 👋 Mofokeng  
 
-## 🚀 About Me  
-I’m a **Business Intelligence & Data Analysis Graduate** from Botswana. Passionate about **Data Analytics, Machine Learning, and Real Estate Tech**.  
-I love building **data-driven applications**, working with **databases**, and creating **dashboards that tell a story**.  
+**Digital Craftsman (Data Analyst/BI Graduate/Creator)**  
+
+I'm a Business Intelligence & Data Analysis graduate passionate about turning raw data into actionable insights.  
+I build **data-driven applications**, design **dashboards that tell stories**, and apply **machine learning** to solve real-world problems.  
+I share my journey in **analytics, business intelligence, and real estate tech** through projects and open-source contributions.  
 
 ---
 
-## 🛠️ Languages & Tools  
+## 📊 Stats & Highlights  
+<p align="center">
+  <a href="#"><img alt="Subscribers" src="https://img.shields.io/badge/Subscribers-600%2B-red?style=for-the-badge&logo=youtube"/></a>
+  <a href="#"><img alt="Views" src="https://img.shields.io/badge/Views-10K%2B-yellow?style=for-the-badge&logo=github"/></a>
+  <a href="#"><img alt="Followers" src="https://img.shields.io/badge/Followers-100%2B-blue?style=for-the-badge&logo=github"/></a>
+  <a href="#"><img alt="Stars" src="https://img.shields.io/badge/Stars-50%2B-brightgreen?style=for-the-badge&logo=github"/></a>
+</p>  
+
+---
+
+## 🛠️ Languages and Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,mongodb,powerbi,git,github,vscode" />
-</p>
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,mongodb,powerbi,git,github,vscode,html,css,js" />
+</p>  
 
 ---
 
 ## 📌 Projects  
-- 🛒 **E-Commerce Platform (PostgreSQL & MongoDB)** – Built two e-commerce solutions using relational and NoSQL databases.  
-- 📊 **Sales Performance Dashboard (Streamlit)** – Designed interactive dashboards to track team KPIs.  
-- 💳 **Loan Default Prediction (Machine Learning)** – Applied ensemble ML models to predict credit risk.  
-- 🎭 **Event Analytics (MYSC)** – Cleaned and analyzed ministry event data, producing Power BI insights.  
+- 🛒 **E-Commerce Platform (PostgreSQL & MongoDB)** – Scalable solutions using relational and NoSQL databases  
+- 📊 **Sales Performance Dashboard (Streamlit)** – Real-time performance tracking for sales teams  
+- 💳 **Loan Default Prediction (ML)** – Ensemble models for financial risk prediction  
+- 🎭 **Event Analytics (MYSC)** – Data cleaning and insights for national programs  
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced **Machine Learning & AI Applications**  
-- **Financial Analytics** in Real Estate & Banking  
-- Building **scalable BI solutions** for businesses  
+## 📺 Latest YouTube Videos  
+<!-- Replace with your YouTube video embeds or thumbnails -->
+<p align="center">
+  <a href="#"><img src="https://img.youtube.com/vi/VIDEO-ID1/0.jpg" width="250"/></a>
+  <a href="#"><img src="https://img.youtube.com/vi/VIDEO-ID2/0.jpg" width="250"/></a>
+  <a href="#"><img src="https://img.youtube.com/vi/VIDEO-ID3/0.jpg" width="250"/></a>
+</p>  
 
 ---
 
@@ -49,7 +64,3 @@ I love building **data-driven applications**, working with **databases**, and cr
   <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>  
 
----
-
-## ⚡ Fun Fact  
-I believe **data is the new oil**, and I enjoy finding stories hidden in datasets!  
